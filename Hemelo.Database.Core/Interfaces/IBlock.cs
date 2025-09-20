@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hemelo.Database.Core
+namespace Hemelo.Database.Core.Interfaces
 {
     public interface IBlock
     {
